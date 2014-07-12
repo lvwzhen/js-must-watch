@@ -1,7 +1,9 @@
 > This is a list of must-watch videos devoted to JavaScript in pan.baidu.com
 
+# [Videos in pan.baidu.com](http://yun.baidu.com/s/1qWK3FDM)
+
 ## 2009
-1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw)
+1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=541092081697276)
 
 ## 2010
 1. [Douglas Crockford: **Volume One: The Early Years**](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=133609862687673)
