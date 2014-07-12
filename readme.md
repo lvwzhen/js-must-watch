@@ -1,15 +1,15 @@
-> This is a list of must-watch videos devoted to JavaScript
+> This is a list of must-watch videos devoted to JavaScript in pan.baidu.com
 
 ## 2009
 1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw)
 
 ## 2010
-1. [Douglas Crockford: **Volume One: The Early Years**](https://www.youtube.com/watch?v=JxAXlJEmNMg)
-2. [Douglas Crockford: **Chapter 2: And Then There Was JavaScript**](https://www.youtube.com/watch?v=RO1Wnu-xKoY)
-3. [Douglas Crockford: **Act III: Function the Ultimate**](https://www.youtube.com/watch?v=ya4UHuXNygM)
-4. [Douglas Crockford: **Episode IV: The Metamorphosis of Ajax**](https://www.youtube.com/watch?v=Fv9qT9joc0M)
-5. [Douglas Crockford: **Part 5: The End of All Things**](https://www.youtube.com/watch?v=47Ceot8yqeI)
-6. [Douglas Crockford: **Scene 6: Loopage**](https://www.youtube.com/watch?v=QgwSUtYSUqA)
+1. [Douglas Crockford: **Volume One: The Early Years**](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=133609862687673)
+2. [Douglas Crockford: **Chapter 2: And Then There Was JavaScript**](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=1115103970336371)
+3. [Douglas Crockford: **Act III: Function the Ultimate**](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=246668199940694)
+4. [Douglas Crockford: **Episode IV: The Metamorphosis of Ajax**](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=626092472176652)
+5. [Douglas Crockford: **Part 5: The End of All Things**](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=199078282645540)
+6. [Douglas Crockford: **Scene 6: Loopage**](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=520669832083606)
 
 ## 2011
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY)
