@@ -14,9 +14,9 @@
 6. [Douglas Crockford: **Scene 6: Loopage**](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=520669832083606)
 
 ## 2011
-1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY)
-2. [Douglas Crockford: **Section 8: Programming Style and Your Brain**](https://www.youtube.com/watch?v=taaEzHI9xyY)
-3. [Ryan Dahl: **Introduction to Node.js**](https://www.youtube.com/watch?v=jo_B4LTHi3I)
+1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=300879859710337)
+2. [Douglas Crockford: **Section 8: Programming Style and Your Brain**](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=1103840831117510)
+3. [Ryan Dahl: **Introduction to Node.js**](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=240539424869930)
 
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516)
