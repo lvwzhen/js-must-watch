@@ -19,11 +19,11 @@
 3. [Ryan Dahl: **Introduction to Node.js**](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=240539424869930)
 
 ## 2012
-1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516)
+1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=528772929368065)
 2. Addy Osmani: **Scaling Your JavaScript Applications** 
-	* [Part 1](http://vimeo.com/35924671)
-	* [Part 2](http://vimeo.com/35924733) 
-	* [Part 3](http://vimeo.com/35990666)
+	* [Part 1](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=422486545671567)
+	* [Part 2](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=428493558103213) 
+	* [Part 3](http://yun.baidu.com/share/link?shareid=106394575&uk=253097117&fid=559531448963747)
 3. [John-David Dalton: **Lo-Dash**](https://www.youtube.com/watch?v=dpPy4f_SeEk)
 4. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) #HOT
 
